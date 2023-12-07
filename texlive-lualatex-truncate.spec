@@ -1,6 +1,6 @@
 Name:		texlive-lualatex-truncate
-Version:	48469
-Release:	2
+Version:	67201
+Release:	1
 Summary:	A wrapper for using the truncate package with LuaLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lualatex-truncate
