@@ -3,7 +3,7 @@ Version:	67201
 Release:	1
 Summary:	A wrapper for using the truncate package with LuaLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lualatex-truncate
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/lualatex-truncate
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lualatex-truncate.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lualatex-truncate.doc.r%{version}.tar.xz
